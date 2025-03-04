@@ -1,1 +1,32 @@
-Hello 
+# ToDoList Project
+
+## Overview
+This project is a simple ToDo List application built using JavaScript. It allows users to add, delete, and mark tasks as completed.
+
+## Features
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Filter tasks by status (all, completed, pending)
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/ToDoList.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd ToDoList
+    ```
+3. Open `index.html` in your browser to start using the application.
+
+## Future Enhancements
+- Implement user authentication
+- Add due dates for tasks
+- Enable task prioritization
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
