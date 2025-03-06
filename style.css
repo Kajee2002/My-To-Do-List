@@ -75,7 +75,7 @@ svg {
   .tasksList, .completedList {
     list-style: none;
     padding: 0;
-    max-height:50vh;
+    max-height:30vh;
     overflow:scroll;
     scroll-behavior: smooth;
   }
