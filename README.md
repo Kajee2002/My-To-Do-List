@@ -3,6 +3,9 @@
 ## Overview
 This project is a simple ToDo List application built using JavaScript. It allows users to add, delete, and mark tasks as completed.
 
+## 🌐 Live Preview  
+View the hosted site: [task-traker.netlify.app](https://task-traker.netlify.app/)
+
 ## Features
 - Add new tasks
 - Delete tasks
